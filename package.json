@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce-back-end",
+  "version": "0.0.1",
+  "description": "Backend para ecommerce",
+  "main": "index.js",
+  "author": "John Vladimir",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.11"
+  }
+}
